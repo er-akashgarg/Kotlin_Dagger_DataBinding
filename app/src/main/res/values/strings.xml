@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin + Dagger2 </string>
+    <string name="error">Server Side Error.</string>
+    <string name="splash_text">Kotlin + Retrofit2 + Dagger2</string>
+</resources>
