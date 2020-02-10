@@ -3,9 +3,9 @@ This is a sample repository with a combination of Kotlin, Retrofit, Dagger2,OkHt
 
 
 ## Other Libraries
-  DataBinding - https://developer.android.com/topic/libraries/data-binding/index.html
-  OkHttp - http://square.github.io/okhttp
-  Retrofit - http://square.github.io/retrofit
+  DataBinding - https://developer.android.com/topic/libraries/data-binding/index.html \n
+  OkHttp - http://square.github.io/okhttp \n
+  Retrofit - http://square.github.io/retrofit \n
   Moshi - https://medium.com/square-corner-blog/kotlins-a-great-language-for-json-fcd6ef99256b
   RxJava - https://github.com/ReactiveX/RxJava
   RxAndroid - https://github.com/ReactiveX/RxAndroid
