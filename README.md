@@ -4,7 +4,7 @@ This is a sample repository with a combination of Kotlin, Retrofit, Dagger2,OkHt
 
 ## Other Libraries
 
-<div>
+<p>
   
   DataBinding - https://developer.android.com/topic/libraries/data-binding/index.html 
   OkHttp - http://square.github.io/okhttp
@@ -13,7 +13,7 @@ This is a sample repository with a combination of Kotlin, Retrofit, Dagger2,OkHt
   RxJava - https://github.com/ReactiveX/RxJava
   RxAndroid - https://github.com/ReactiveX/RxAndroid
   
-  </div>
+  </p>
 
 ## DataBinding
    To use DataBinding with Kotlin, use com.android.databinding:compiler like below.
