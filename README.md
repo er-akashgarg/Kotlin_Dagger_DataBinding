@@ -4,7 +4,7 @@ This is a sample repository with a combination of Kotlin, Retrofit, Dagger2,OkHt
 
 ## Other Libraries
 
-<div class="row">
+<div>
   
   DataBinding - https://developer.android.com/topic/libraries/data-binding/index.html 
   OkHttp - http://square.github.io/okhttp
