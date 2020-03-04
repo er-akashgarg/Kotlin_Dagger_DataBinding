@@ -21,8 +21,8 @@ This is a sample repository with a combination of Kotlin, Retrofit, Dagger2,OkHt
 
 ## ScreenShots-:
 <div class="row">
-<img src="https://github.com/er-akashgarg/Kotlin_Dagger_DataBinding/blob/master/screens/scr1.png" width="200" height="370" />
-<img src="https://github.com/er-akashgarg/Kotlin_Dagger_DataBinding/blob/master/screens/scr2.png" width="200" height="370" />
+<img src="https://github.com/er-akashgarg/SmsRetriverClient_API/blob/master/screenshots/SS-1.png" width="200" height="370" />
+<img src="https://github.com/er-akashgarg/SmsRetriverClient_API/blob/master/screenshots/SS-2.png" width="200" height="370" />
 </div>
 
 
